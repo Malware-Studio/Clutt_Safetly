@@ -1,0 +1,16 @@
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\bin\Debug\Clutt_Peaceful.exe.config
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\bin\Debug\Clutt_Peaceful.exe
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\bin\Debug\Clutt_Peaceful.pdb
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.csproj.AssemblyReference.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.Virus.resources
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.Properties.Resources.resources
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.csproj.GenerateResource.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.csproj.CoreCompileInputs.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.exe
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.pdb
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\bin\Debug\Interop.WMPLib.dll
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Interop.WMPLib.dll
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.csproj.ResolveComReference.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\Clutt_Peaceful\Clutt_Peaceful\obj\Debug\Clutt_Peaceful.gdi.resources
